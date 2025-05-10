@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+transformers
+datasets
+scikit-learn
+pandas
+streamlit
+requests
